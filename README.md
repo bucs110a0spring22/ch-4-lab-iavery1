@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The program creates a turtle and uses math to draw sinusoidal curves.
 
 ## GRACE DAYS
 Grace days used for this assignment: < # >
@@ -19,7 +19,7 @@ Grace days remaining: < # >/5
  < What parts of the project you were not able to complete >
 
 ## REFERENCES:
- < List any outside resources used >
+ Class notes
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
